@@ -1,14 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h>
 /* more headers goes there */
+#include <stdio.h>
 
 /* betty style doc for function main goes there */
-
 /*
  * main - Entry point
  *
- * Returnn: 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
